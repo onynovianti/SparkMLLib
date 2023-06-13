@@ -17,7 +17,7 @@ Spark MLLib
  </tr>
  <tr>
     <td></td>
-    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/0.1.%20Menjalankan%20Spark%20Daemons.png"></td>
+    <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/0.%20Persiapan.png"></td>
  </tr>
 </table><br>
 
@@ -31,8 +31,8 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td></td>
-    <td><img src="https://github.com/onynovianti/spark-streaming/blob/master/00_images/method1.png"></td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/movieLens(Slide%2030).ipynb</td>
+    <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2030.png"></td>
  </tr>
  <tr>
     <th colspan="2" align="center">Penjelasan</th>
@@ -52,7 +52,7 @@ Spark MLLib
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-streaming/blob/7098a02a7be2a4dcde39fa373f21832e53cf1026/network_wordcount_ganti_interval.py#L28-L49</td>
-    <td><img src="https://github.com/onynovianti/spark-streaming/blob/master/00_images/method2.png"></td>
+    <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2048.png"></td>
  </tr>
  <tr>
     <th colspan="2" align="center">Penjelasan</th>
@@ -74,7 +74,7 @@ Spark MLLib
  <tr>
     <td></td>
     <td><img src="https://github.com/onynovianti/spark-streaming/blob/master/00_images/copy%20afiin.png"> <br>
-    <img src="https://github.com/onynovianti/spark-streaming/blob/master/00_images/copy%20af.png"></td>
+    <img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2049.png"></td>
  </tr>
 </table>
 <br>
@@ -90,7 +90,7 @@ Spark MLLib
  </tr>
  <tr>
     <td></td>
-    <td><img src="https://github.com/onynovianti/spark-streaming/blob/master/00_images/method1.png"></td>
+    <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2054.png"></td>
  </tr>
  <tr>
     <th colspan="2" align="center">Penjelasan</th>
