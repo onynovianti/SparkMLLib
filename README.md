@@ -31,7 +31,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/movieLens(Slide%2030).ipynb?plain=1</td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/movieLens(Slide%2030).ipynb#L1-L5</td>
     <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2030.png"></td>
  </tr>
  <tr>
