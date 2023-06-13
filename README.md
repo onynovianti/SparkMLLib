@@ -16,7 +16,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td></td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony.py#L22-L56</td>
     <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/0.%20Persiapan.png"></td>
  </tr>
 </table><br>
@@ -51,7 +51,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/spark-streaming/blob/7098a02a7be2a4dcde39fa373f21832e53cf1026/network_wordcount_ganti_interval.py#L28-L49</td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony%20(2).py#L22-L63</td>
     <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2048.png"></td>
  </tr>
  <tr>
@@ -72,7 +72,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td></td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony%20(3).py#L22-L45</td>
     <td><img src="https://github.com/onynovianti/spark-streaming/blob/master/00_images/copy%20afiin.png"> <br>
     <img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2049.png"></td>
  </tr>
@@ -89,7 +89,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td></td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony%20(1).py#L44</td>
     <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2054.png"></td>
  </tr>
  <tr>
