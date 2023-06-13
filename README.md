@@ -38,7 +38,7 @@ Spark MLLib
     <th colspan="2" align="center">Penjelasan</th>
  </tr>
  <tr>
-    <td>Kode di atas menggunakan Spark MLlib untuk membangun model rekomendasi menggunakan metode ALS (Alternating Least Squares) pada dataset ratings.dat. Dataset tersebut dibaca dan diparse menjadi objek Rating, kemudian dibagi menjadi data training (80%) dan data test (20%). Model ALS kemudian dibuat dengan parameter yang telah ditentukan, dan dilakukan prediksi pada data test. Mean Squared Error (MSE) dihitung sebagai metrik evaluasi.</td>
+    <td colspan="2">Kode di atas menggunakan Spark MLlib untuk membangun model rekomendasi menggunakan metode ALS (Alternating Least Squares) pada dataset ratings.dat. Dataset tersebut dibaca dan diparse menjadi objek Rating, kemudian dibagi menjadi data training (80%) dan data test (20%). Model ALS kemudian dibuat dengan parameter yang telah ditentukan, dan dilakukan prediksi pada data test. Mean Squared Error (MSE) dihitung sebagai metrik evaluasi.</td>
  </tr>
 </table><br>
 
@@ -58,7 +58,7 @@ Spark MLLib
     <th colspan="2" align="center">Penjelasan</th>
  </tr>
  <tr>
-    <td>Kode di atas menggunakan Spark MLlib untuk membangun model rekomendasi dengan menggunakan algoritma ALS (Alternating Least Squares) pada dataset ratings.dat. Data tambahan dalam variabel mydata ditambahkan ke dataset ratings. Model yang dibangun digunakan untuk menghasilkan rekomendasi produk untuk pengguna dengan ID 1. Hasil rekomendasi ditampilkan dengan menyertakan nama produk yang diurutkan berdasarkan peringkat.</td>
+    <td colspan="2">Kode di atas menggunakan Spark MLlib untuk membangun model rekomendasi dengan menggunakan algoritma ALS (Alternating Least Squares) pada dataset ratings.dat. Data tambahan dalam variabel mydata ditambahkan ke dataset ratings. Model yang dibangun digunakan untuk menghasilkan rekomendasi produk untuk pengguna dengan ID 1. Hasil rekomendasi ditampilkan dengan menyertakan nama produk yang diurutkan berdasarkan peringkat.</td>
  </tr>
 </table><br>
 
@@ -80,7 +80,7 @@ Spark MLLib
     <th colspan="2" align="center">Penjelasan</th>
  </tr>
  <tr>
-    <td>Kode di atas menggunakan Spark MLlib untuk menghitung statistik sederhana dari dataset ratings.dat. Dataset tersebut diambil dari file ratings.dat, kemudian hanya kolom rating yang digunakan untuk perhitungan. Statistik yang dihitung mencakup nilai rata-rata, variansi, dan jumlah elemen non-nol dalam dataset. </td>
+    <td colspan="2">Kode di atas menggunakan Spark MLlib untuk menghitung statistik sederhana dari dataset ratings.dat. Dataset tersebut diambil dari file ratings.dat, kemudian hanya kolom rating yang digunakan untuk perhitungan. Statistik yang dihitung mencakup nilai rata-rata, variansi, dan jumlah elemen non-nol dalam dataset. </td>
  </tr>
 </table>
 <br>
@@ -102,6 +102,6 @@ Spark MLLib
     <th colspan="2" align="center">Penjelasan</th>
  </tr>
  <tr>
-    <td>Kode di atas menggunakan Spark MLlib untuk melakukan analisis klastering dengan menggunakan algoritma K-Means pada dataset yang diambil dari file kmeans_data.txt. Evaluasi dilakukan dengan menghitung Within Set Sum of Squared Errors (WSSSE) untuk mengukur kualitas klastering yang dihasilkan.</td>
+    <td colspan="2">Kode di atas menggunakan Spark MLlib untuk melakukan analisis klastering dengan menggunakan algoritma K-Means pada dataset yang diambil dari file kmeans_data.txt. Evaluasi dilakukan dengan menghitung Within Set Sum of Squared Errors (WSSSE) untuk mengukur kualitas klastering yang dihasilkan.</td>
  </tr>
 </table><br>
