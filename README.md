@@ -16,7 +16,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony.py#L22-L56</td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony.py#L15-L20</td>
     <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/0.%20Persiapan.png"></td>
  </tr>
 </table><br>
@@ -31,7 +31,7 @@ Spark MLLib
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/movieLens(Slide%2030).ipynb#L1-L5</td>
+    <td>https://github.com/onynovianti/SparkMLLib/blob/7f3ad12d4b8a5c6bd081e77c942ef89bcac82e5d/copy_of_tugas_minggu_14_spark_mllib_ony.py#L22-L56</td>
     <td><img src="https://github.com/onynovianti/SparkMLLib/blob/aa69e0d9659c083cced75312ad0015bc266896a7/Image/Slide%2030.png"></td>
  </tr>
  <tr>
